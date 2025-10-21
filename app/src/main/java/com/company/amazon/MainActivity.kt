@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
 
         binding.webView.webViewClient = WebViewClient()
         binding.webView.loadUrl("https://www.amazon.com/")
-        binding.webView.settings.javaScriptEnabled = true
+
 
 
 
